@@ -1,0 +1,11 @@
+
+build/
+SdOut/
+
+*.ovl
+
+*.elf
+
+*.nacp
+
+*.nro
